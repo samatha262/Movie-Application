@@ -1,0 +1,5 @@
+install Django Framework
+create .env file for enivironmental variables
+postman for sending HTTP requests
+install requests, Factory Boy
+sqlite for database
